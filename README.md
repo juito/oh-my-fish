@@ -102,3 +102,4 @@ We are hoping to collect a bunch of themes for our command prompts. You can see 
 [MIT](http://mit-license.org) © [Contributors](https://github.com/bpinto/oh-my-fish/graphs/contributors)
 
 [Logo](https://cloud.githubusercontent.com/assets/958723/6847746/8d1b95b0-d3a7-11e4-866a-6bdc1eea0fe6.png) by [marcker](https://github.com/marcker):small_blue_diamond: [Attribution CC 4.0](http://creativecommons.org/licenses/by/4.0/)
+=======
